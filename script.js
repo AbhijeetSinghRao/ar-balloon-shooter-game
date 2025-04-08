@@ -1,3 +1,4 @@
+// script.js
 const gameState = {
   score: 0,
   balloonsCollected: 0,
